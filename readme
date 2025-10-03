@@ -24,40 +24,15 @@ I hold an **MBA** and an **MPharmS**, alongside certifications in **AI**, **Mach
 - Policy-as-code guardrails for Terraform, OPA/Gatekeeper, and CloudFormation Guard
 - Secure SDLC: SAST, SCA, secrets scanning, SBOM and release gates, threat modeling
 
-**Certifications (in progress):**  
-- Azure: **AZ-500** → **SC-100** next  
-- AWS: **Security – Specialty** → **Solutions Architect – Professional** next
-
 ---
-
-## Portfolio (pinned repos)
-
-- [`1-principles`](https://github.com/<handle>/1-principles) — security principles and diagrams  
-- [`2-identity-baselines`](https://github.com/<handle>/2-identity-baselines) — IAM/Entra ID, PIM, Conditional Access  
-- [`3-baseline-as-code`](https://github.com/<handle>/3-baseline-as-code) — CIS/MCSB as AWS Config + Azure Policy  
-- [`4-detections`](https://github.com/<handle>/4-detections) — KQL, CloudWatch Insights, Sigma rules  
-- [`5-ref-arch-networking`](https://github.com/<handle>/5-ref-arch-networking) — hub-spoke, centralized egress, WAF  
-- [`6-guardrails-terraform`](https://github.com/<handle>/6-guardrails-terraform) — OPA/Sentinel policies + CI gates  
-- [`7-secure-cicd-demo`](https://github.com/<handle>/7-secure-cicd-demo) — SAST/SCA/DAST and SBOM in pipeline  
-- [`8-kms-keyvault-patterns`](https://github.com/<handle>/8-kms-keyvault-patterns) — KMS/Key Vault usage patterns  
-- [`9-landing-zone-blueprints`](https://github.com/<handle>/9-landing-zone-blueprints) — AWS/Azure landing zones  
-- [`10-detection-ir-playbooks`](https://github.com/<handle>/10-detection-ir-playbooks) — analytics + automation  
-- [`11-control-mappings`](https://github.com/<handle>/11-control-mappings) — NCSC ↔ MCSB ↔ CIS mappings  
-- [`12-architecture-pack`](https://github.com/<handle>/12-architecture-pack) — executive deck, cases, evidence
-
-> Each repo includes a `README`, IaC, tests, cost notes, and screenshots. Reproducible in a small homelab.
-
----
-
 ## What I focus on
 
-- Security architecture and landing zones for AWS and Azure
+- Cybersecurity Governance and Compliance
+- Security architecture and landing zones for Azure
 - DevSecOps and SDLC governance with policy-as-code
-- Detection engineering and IR automation
 - Innovation strategy and funding for secure digital programs
 
 ---
 
 ## Contact
-- Portfolio index: Coming soon
-- Work inquiries: https://www.braintomic.com/contact
+- Work inquiries: https://www.cybertomic.com/contact (coming soon)

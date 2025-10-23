@@ -1,5 +1,3 @@
-**Bio | Ric P | Ricnology**
-
 **| Innovation and Cybersecurity Governance Consultant |**
 
 MBA-qualified professional with 10+ years of leadership in regulated industries, specialising in risk, compliance, and large-scale transformation. 
@@ -13,19 +11,19 @@ Now focusing on cybersecurity governance and cloud security resilience. Developi
 
 Certifications include ISO/IEC 27001:2022 Lead Implementer, with CIPP and CISM in progress.
 
-> Privacy note: this bio uses a privacy handle. My full identity and references can be provided during screening and contracting.
+> Privacy note: this bio uses a privacy handle. My identity and references can be provided during screening and contracting.
 
 ---
 
 ## Cybersecurity trajectory
 
-**Goal:** Cloud Security Architect (AWS/Azure) with strong AppSec/DevSecOps capability.
+**Goal:** Cybersecurity Governance and Compliance (GRC) Specialist | Cloud Security Architect (Azure).
 
 **Now building:**
 - Cloud security baselines aligned to CIS, Microsoft Cloud Security Benchmark, and NCSC principles
-- Identity-first architectures: AWS IAM + Organizations SCPs, Entra ID Conditional Access + PIM
-- Encryption and secrets: AWS KMS, Azure Key Vault, rotation policies
-- Centralized logging and detections: AWS CloudTrail/GuardDuty/Security Hub, Microsoft Sentinel (KQL), Sigma rules
+- Identity-first architectures: IAM + Organizations SCPs, Entra ID Conditional Access + PIM
+- Encryption and secrets: Azure Key Vault, rotation policies
+- Centralized logging and detections: Microsoft Sentinel (KQL), Sigma rules
 - Network security: hub-spoke, PrivateLink, centralized egress, WAF hardening
 - Policy-as-code guardrails for Terraform, OPA/Gatekeeper, and CloudFormation Guard
 - Secure SDLC: SAST, SCA, secrets scanning, SBOM and release gates, threat modeling

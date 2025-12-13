@@ -19,16 +19,6 @@ Certifications include ISO/IEC 27001:2022 Lead Implementer, with CIPP and CISM i
 
 **Goal:** Cybersecurity Governance and Compliance (GRC) Specialist | Cloud Security Architect (Azure).
 
-**Now building:**
-- Cloud security baselines aligned to CIS, Microsoft Cloud Security Benchmark, and NCSC principles
-- Identity-first architectures: IAM + Organizations SCPs, Entra ID Conditional Access + PIM
-- Encryption and secrets: Azure Key Vault, rotation policies
-- Centralized logging and detections: Microsoft Sentinel (KQL), Sigma rules
-- Network security: hub-spoke, PrivateLink, centralized egress, WAF hardening
-- Policy-as-code guardrails for Terraform, OPA/Gatekeeper, and CloudFormation Guard
-- Secure SDLC: SAST, SCA, secrets scanning, SBOM and release gates, threat modeling
-
----
 ## What I focus on
 - Cybersecurity Governance and Compliance (GRC)
 - Security architecture and landing zones for Azure
